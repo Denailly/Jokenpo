@@ -705,7 +705,7 @@ input[type='checkbox'] {
 }
 
 .form-1 .right-wrapper {
-	background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../images/contact-right-background.jpg") center;
+	background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9));
 	background-size: cover;
 }
 
@@ -719,7 +719,7 @@ input[type='checkbox'] {
 	background-color: transparent;
 }
 #banner-3{
-	padding-top: 13%;
+	padding-top: 15%;
 }
 
 
